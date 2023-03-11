@@ -4,10 +4,6 @@
   "description": "[![Actions Status](https://github.com/ArishaTimofeeva98/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/ArishaTimofeeva98/frontend-project-44/actions)",
   "main": "index.js",
   "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/ArishaTimofeeva98/frontend-project-44.git"
-  },
   "bin": {
     "brain-games": "bin/brain-games.js"
   },
@@ -16,9 +12,5 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ArishaTimofeeva98/frontend-project-44/issues"
-  },
-  "homepage": "https://github.com/ArishaTimofeeva98/frontend-project-44#readme"
 }
 
